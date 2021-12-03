@@ -2,11 +2,7 @@
 @font-face {
   font-family: "linea-arrows-10";
   src: url("../fonts/fonts-linea-arrows-10.eot");
-  src: url("../fonts/fonts-linea-arrows-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-arrows-10.woff") format("woff"),
-    url("../fonts/fonts-linea-arrows-10.ttf") format("truetype"),
-    url("arrows/fonts/linea-arrows-10.svg#linea-arrows-10") format("svg");
+  src: url("../fonts/fonts-linea-arrows-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-arrows-10.woff") format("woff"), url("../fonts/fonts-linea-arrows-10.ttf") format("truetype"), url("arrows/fonts/linea-arrows-10.svg#linea-arrows-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -14,11 +10,7 @@
 @font-face {
   font-family: "linea-basic-10";
   src: url("../fonts/fonts-linea-basic-10.eot");
-  src: url("../fonts/fonts-linea-basic-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-basic-10.woff") format("woff"),
-    url("../fonts/fonts-linea-basic-10.ttf") format("truetype"),
-    url("basic/fonts/linea-basic-10.svg#linea-basic-10") format("svg");
+  src: url("../fonts/fonts-linea-basic-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-basic-10.woff") format("woff"), url("../fonts/fonts-linea-basic-10.ttf") format("truetype"), url("basic/fonts/linea-basic-10.svg#linea-basic-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -26,12 +18,7 @@
 @font-face {
   font-family: "linea-basic-elaboration-10";
   src: url("../fonts/fonts-linea-basic-elaboration-10.eot");
-  src: url("../fonts/fonts-linea-basic-elaboration-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-basic-elaboration-10.woff") format("woff"),
-    url("../fonts/fonts-linea-basic-elaboration-10.ttf") format("truetype"),
-    url("basic-elaboration/fonts/linea-basic-elaboration-10.svg#linea-basic-elaboration-10")
-      format("svg");
+  src: url("../fonts/fonts-linea-basic-elaboration-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-basic-elaboration-10.woff") format("woff"), url("../fonts/fonts-linea-basic-elaboration-10.ttf") format("truetype"), url("basic-elaboration/fonts/linea-basic-elaboration-10.svg#linea-basic-elaboration-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -39,12 +26,7 @@
 @font-face {
   font-family: "linea-ecommerce-10";
   src: url("../fonts/fonts-linea-ecommerce-10.eot");
-  src: url("../fonts/fonts-linea-ecommerce-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-ecommerce-10.woff") format("woff"),
-    url("../fonts/fonts-linea-ecommerce-10.ttf") format("truetype"),
-    url("ecommerce/fonts/linea-ecommerce-10.svg#linea-ecommerce-10")
-      format("svg");
+  src: url("../fonts/fonts-linea-ecommerce-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-ecommerce-10.woff") format("woff"), url("../fonts/fonts-linea-ecommerce-10.ttf") format("truetype"), url("ecommerce/fonts/linea-ecommerce-10.svg#linea-ecommerce-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -52,11 +34,7 @@
 @font-face {
   font-family: "linea-music-10";
   src: url("../fonts/fonts-linea-music-10.eot");
-  src: url("../fonts/fonts-linea-music-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-music-10.woff") format("woff"),
-    url("../fonts/fonts-linea-music-10.ttf") format("truetype"),
-    url("music/fonts/linea-music-10.svg#linea-music-10") format("svg");
+  src: url("../fonts/fonts-linea-music-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-music-10.woff") format("woff"), url("../fonts/fonts-linea-music-10.ttf") format("truetype"), url("music/fonts/linea-music-10.svg#linea-music-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -64,11 +42,7 @@
 @font-face {
   font-family: "linea-software-10";
   src: url("../fonts/fonts-linea-software-10.eot");
-  src: url("../fonts/fonts-linea-software-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-software-10.woff") format("woff"),
-    url("../fonts/fonts-linea-software-10.ttf") format("truetype"),
-    url("software/fonts/linea-software-10.svg#linea-software-10") format("svg");
+  src: url("../fonts/fonts-linea-software-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-software-10.woff") format("woff"), url("../fonts/fonts-linea-software-10.ttf") format("truetype"), url("software/fonts/linea-software-10.svg#linea-software-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -76,11 +50,7 @@
 @font-face {
   font-family: "linea-weather-10";
   src: url("../fonts/fonts-linea-weather-10.eot");
-  src: url("../fonts/fonts-linea-weather-10.eot?#iefix")
-      format("embedded-opentype"),
-    url("../fonts/fonts-linea-weather-10.woff") format("woff"),
-    url("../fonts/fonts-linea-weather-10.ttf") format("truetype"),
-    url("weather/fonts/linea-weather-10.svg#linea-weather-10") format("svg");
+  src: url("../fonts/fonts-linea-weather-10.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts-linea-weather-10.woff") format("woff"), url("../fonts/fonts-linea-weather-10.ttf") format("truetype"), url("weather/fonts/linea-weather-10.svg#linea-weather-10") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -1138,7 +1108,7 @@
 
 /* line 216, basic/_styles.scss */
 .icon-basic-magic-mouse:before {
-  content: '"';
+  content: "\"";
 }
 
 /* line 219, basic/_styles.scss */
@@ -1841,7 +1811,7 @@
 
 /* line 218, basic-elaboration/_styles.scss */
 .icon-basic-elaboration-document-refresh:before {
-  content: '"';
+  content: "\"";
 }
 
 /* line 221, basic-elaboration/_styles.scss */
@@ -2595,7 +2565,7 @@
 
 /* line 218, ecommerce/_styles.scss */
 .icon-ecommerce-receipt-lira:before {
-  content: '"';
+  content: "\"";
 }
 
 /* line 221, ecommerce/_styles.scss */
@@ -3228,7 +3198,7 @@
 
 /* line 217, software/_styles.scss */
 .icon-software-paragraph-justify-left:before {
-  content: '"';
+  content: "\"";
 }
 
 /* line 220, software/_styles.scss */
